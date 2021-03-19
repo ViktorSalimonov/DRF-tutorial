@@ -5,7 +5,7 @@ coreapi==2.3.3
 coreschema==0.0.4
 cryptography==2.1.4
 Django==1.11.23
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 enum34==1.1.6
 gyp==0.1
 idna==2.8
